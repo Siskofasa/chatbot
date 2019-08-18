@@ -1,0 +1,80 @@
+body {
+    background-color: mediumpurple;
+    margin-bottom: 21px;
+    font-size: 14px;
+    line-height: 21px;
+    color: #242424;
+}
+
+h1 {
+    font-family: verdana, serif;
+    margin-bottom: 10px;
+    line-height: 60px;
+    color: white;
+    text-align: center;
+}
+
+h2 {
+    font-family: verdana, serif;
+    text-align: center;
+    line-height: 42px;
+    color: black;
+}
+
+p {
+
+    font-size: 20px;
+    text-align: center;
+}
+
+label {
+    font-family: verdana, serif;
+    font-size: 20px;
+    text-align: center;
+}
+
+div {
+    font-family: verdana, serif;
+    font-size: 20px;
+    text-align: center;
+}
+
+#bot {
+    color: blue;
+}
+
+#box {
+    border: 2px solid black;
+    margin: auto;
+    width: 20em;
+    height: 27.3em;
+}
+
+#chat {
+    background-color: white;
+    margin: auto;
+    width: 20em;
+    height: 25em;
+    overflow: -moz-scrollbars-vertical;
+    overflow-y: scroll;
+}
+
+
+
+#inputBox {
+    padding: 0;
+    bottom: 0;
+    margin: auto;
+    width: 20em;
+}
+
+#userBox {
+    border: 1px solid darkgrey;
+    line-height: 2;
+    width: 100%;
+    text-align: left;
+    padding-top: 0;
+    margin-top: 0;
+
+}
+
